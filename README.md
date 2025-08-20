@@ -1,7 +1,7 @@
 # Chat with MySQL
 
 **Business Case:**
-Business Case: Automate SQL Queries and Explore Databases with Natural Language
+Automate SQL Queries and Explore Databases with Natural Language
 
 **Project Description:**
 
@@ -21,11 +21,9 @@ dotenv for secure environment management
 
 **Project Details:**
 
-Uses LLMs to generate accurate SQL queries based on natural language questions
-
-Provides an interactive interface to explore databases without writing SQL manually
-
-Ideal for learning database integration, LLM applications, and Python web apps
+Uses LLMs to generate accurate SQL queries based on natural language questions.
+Provides an interactive interface to explore databases without writing SQL manually.
+Ideal for learning database integration, LLM applications, and Python web apps.
 
 **screenshot of the project :**
 
