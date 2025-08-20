@@ -27,3 +27,7 @@ Provides an interactive interface to explore databases without writing SQL manua
 
 Ideal for learning database integration, LLM applications, and Python web apps
 
+**screenshot of the project :**
+
+<img width="1124" height="708" alt="Screenshot 2025-08-20 at 09 59 27" src="https://github.com/user-attachments/assets/aacb5649-b4d0-430f-8106-28c411eec681" />
+
